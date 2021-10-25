@@ -6,4 +6,7 @@ This repository contains our solutions for InClass kaggle Competitions
 4. Arabic Handwritten Characters Recognition [Kaggle Link](https://www.kaggle.com/c/arabic-hwr-ai-pro-intake1)
 
 Team members:
+- [DoaaMahmoudKiwan](https://github.com/DoaaMahmoudKiwan) 
+- [Hagar Marzouk](https://github.com/HagarMarzouk) 
 - [Mai Tarek](https://github.com/MaiTarekAlazab) 
+- [Tasneem Omara](https://github.com/TasneemOmara)
